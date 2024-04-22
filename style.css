@@ -1,0 +1,20 @@
+body {
+  background: black;
+}
+p {
+  color: white;
+  font-weight: lighter;
+  align-content: justify;
+}
+h1 {
+  font-weight: lighter;
+  color: white;
+}
+pre {
+  color: white;
+}
+h3 {
+    color: white;
+    font-weight: lighter;
+    align-content: center;
+}
